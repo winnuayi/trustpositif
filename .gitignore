@@ -1,0 +1,4 @@
+blacklist.txt
+domains.txt
+log_*
+sdn
